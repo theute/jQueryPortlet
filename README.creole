@@ -1,0 +1,1 @@
+This is a jQuery demo portlet for [[http://www.gatein.org|GateIn Portal]]
